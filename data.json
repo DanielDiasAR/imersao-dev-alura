@@ -1,0 +1,343 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "JavaScript é uma linguagem de programação leve, interpretada e baseada em objetos. É amplamente utilizada para desenvolvimento web, permitindo a criação de páginas interativas e dinâmicas.",
+    "ano_criacao": 1995,
+    "criador": "Brendan Eich",
+    "paradigmas": [
+      "Scripting",
+      "Orientada a objetos (baseada em protótipos)",
+      "Funcional"
+    ],
+    "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por sua sintaxe clara e legibilidade, sendo amplamente utilizada em diversas áreas, como desenvolvimento web, ciência de dados, automação e inteligência artificial.",
+    "ano_criacao": 1991,
+    "criador": "Guido van Rossum",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Imperativa",
+      "Funcional"
+    ],
+    "url": "https://www.python.org/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos, popular e multiplataforma, que funciona em bilhões de dispositivos. É conhecida pelo slogan 'escreva uma vez, execute em qualquer lugar' (WORA), pois o código compilado (bytecode) pode rodar em qualquer máquina que tenha uma Máquina Virtual Java (JVM).",
+    "ano_criacao": 1995,
+    "criador": "James Gosling (Sun Microsystems)",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Estruturada",
+      "Imperativa",
+      "Funcional"
+    ],
+    "url": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C++",
+    "descricao": "C++ é uma linguagem de programação compilada, multiparadigma e de uso geral. Sendo uma extensão da linguagem C, é amplamente utilizada em software de sistema, jogos, drivers, e aplicações de alto desempenho que exigem controle de baixo nível.",
+    "ano_criacao": 1983,
+    "criador": "Bjarne Stroustrup",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Procedural",
+      "Genérica",
+      "Funcional"
+    ],
+    "url": "https://isocpp.org/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Go (ou Golang) é uma linguagem de programação compilada e concorrente, criada pelo Google. Foi projetada para ser simples, eficiente e confiável, sendo ideal para programação de sistemas, serviços de rede e processamento concorrente.",
+    "ano_criacao": 2009,
+    "criador": "Robert Griesemer, Rob Pike, Ken Thompson (Google)",
+    "paradigmas": [
+      "Concorrente",
+      "Imperativa",
+      "Orientada a objetos (não tradicional)"
+    ],
+    "url": "https://go.dev/"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro.",
+    "ano_criacao": 2012,
+    "criador": "Microsoft (Anders Hejlsberg)",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Funcional",
+      "Genérica"
+    ],
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca para a construção de interfaces de usuário baseada em componentes, mantida pelo Facebook (Meta).",
+    "ano_criacao": 2013,
+    "criador": "Jordan Walke (Facebook)",
+    "paradigmas": [
+      "Declarativa",
+      "Baseada em componentes"
+    ],
+    "url": "https://reactjs.org/"
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de integração.",
+    "ano_criacao": 2014,
+    "criador": "Evan You",
+    "paradigmas": [
+      "Baseado em componentes",
+      "Reativo"
+    ],
+    "url": "https://vuejs.org/"
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Plataforma de desenvolvimento de aplicações web e móveis, mantida pela Google.",
+    "ano_criacao": 2016,
+    "criador": "Google",
+    "paradigmas": [
+      "Baseado em componentes",
+      "Orientado a objetos"
+    ],
+    "url": "https://angular.io/"
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execução (runtime) que permite executar código fora do navegador, com foco em operações I/O não bloqueantes.",
+    "ano_criacao": 2009,
+    "criador": "Ryan Dahl",
+    "paradigmas": [
+      "Orientado a eventos",
+      "Não bloqueante"
+    ],
+    "url": "https://nodejs.org/"
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas focada em segurança, velocidade e concorrência.",
+    "ano_criacao": 2010,
+    "criador": "Graydon Hoare (Mozilla)",
+    "paradigmas": [
+      "Concorrente",
+      "Funcional",
+      "Imperativa"
+    ],
+    "url": "https://www.rust-lang.org/"
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação multiplataforma, estaticamente tipada, interoperável com a Máquina Virtual de Java (JVM).",
+    "ano_criacao": 2011,
+    "criador": "JetBrains",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Funcional"
+    ],
+    "url": "https://kotlinlang.org/"
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem poderosa e intuitiva desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+    "ano_criacao": 2014,
+    "criador": "Apple Inc.",
+    "paradigmas": [
+      "Orientada a objetos",
+      "Funcional",
+      "Protocol-oriented"
+    ],
+    "url": "https://www.swift.org/"
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, conhecido por sua escalabilidade e flexibilidade.",
+    "ano_criacao": 2009,
+    "criador": "MongoDB Inc.",
+    "paradigmas": [
+      "NoSQL",
+      "Orientado a documentos"
+    ],
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional de código aberto, robusto e extensível.",
+    "ano_criacao": 1996,
+    "criador": "PostgreSQL Global Development Group",
+    "paradigmas": [
+      "SQL",
+      "Objeto-relacional"
+    ],
+    "url": "https://www.postgresql.org/"
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que permite desenvolver, enviar e executar aplicações dentro de contêineres isolados.",
+    "ano_criacao": 2013,
+    "criador": "Docker, Inc.",
+    "paradigmas": [
+      "Containerização",
+      "DevOps"
+    ],
+    "url": "https://www.docker.com/"
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de código aberto para automatizar a implantação, escala e gerenciamento de aplicações em contêineres.",
+    "ano_criacao": 2014,
+    "criador": "Google",
+    "paradigmas": [
+      "Orquestração de contêineres",
+      "DevOps"
+    ],
+    "url": "https://kubernetes.io/"
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de nuvem usando arquivos de configuração declarativos.",
+    "ano_criacao": 2014,
+    "criador": "HashiCorp",
+    "paradigmas": [
+      "Infraestrutura como Código (IaC)",
+      "Declarativo"
+    ],
+    "url": "https://www.terraform.io/"
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da AWS que permite executar código sem provisionar ou gerenciar servidores.",
+    "ano_criacao": 2014,
+    "criador": "Amazon Web Services",
+    "paradigmas": [
+      "Serverless",
+      "FaaS (Function as a Service)"
+    ],
+    "url": "https://aws.amazon.com/lambda/"
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída capaz de lidar com grandes volumes de dados em tempo real.",
+    "ano_criacao": 2011,
+    "criador": "LinkedIn (Apache Software Foundation)",
+    "paradigmas": [
+      "Streaming de eventos",
+      "Publicar/assinar"
+    ],
+    "url": "https://kafka.apache.org/"
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Armazenamento de estrutura de dados em memória, open source, usado como cache, banco de dados e message broker.",
+    "ano_criacao": 2009,
+    "criador": "Salvatore Sanfilippo",
+    "paradigmas": [
+      "NoSQL",
+      "Chave-valor",
+      "In-memory"
+    ],
+    "url": "https://redis.io/"
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook (Meta) como alternativa ao REST.",
+    "ano_criacao": 2015,
+    "criador": "Facebook",
+    "paradigmas": [
+      "Linguagem de consulta de API",
+      "Declarativo"
+    ],
+    "url": "https://graphql.org/"
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React para produção que facilita a criação de aplicações com Server-Side Rendering (SSR) e Static Site Generation (SSG).",
+    "ano_criacao": 2016,
+    "criador": "Vercel",
+    "paradigmas": [
+      "Renderização no servidor (SSR)",
+      "Geração de site estático (SSG)"
+    ],
+    "url": "https://nextjs.org/"
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework compilador que transforma componentes em código imperativo altamente eficiente no build time.",
+    "ano_criacao": 2016,
+    "criador": "Rich Harris",
+    "paradigmas": [
+      "Reativo",
+      "Baseado em compilador"
+    ],
+    "url": "https://svelte.dev/"
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Sistema de monitoramento e alerta de código aberto construído em torno de um modelo de dados de série temporal.",
+    "ano_criacao": 2012,
+    "criador": "SoundCloud",
+    "paradigmas": [
+      "Monitoramento",
+      "Séries temporais"
+    ],
+    "url": "https://prometheus.io/"
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído, amplamente utilizado para rastrear mudanças em códigos durante o desenvolvimento de software.",
+    "ano_criacao": 2005,
+    "criador": "Linus Torvalds",
+    "paradigmas": [
+      "Controle de versão distribuído"
+    ],
+    "url": "https://git-scm.com/"
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações standalone e prontas para produção usando a plataforma Spring.",
+    "ano_criacao": 2014,
+    "criador": "Pivotal Software",
+    "paradigmas": [
+      "Inversão de controle",
+      "Convenção sobre configuração"
+    ],
+    "url": "https://spring.io/projects/spring-boot"
+  },
+  {
+    "nome": "Ruby on Rails",
+    "descricao": "Framework de desenvolvimento web para o Ruby, que enfatiza a convenção sobre configuração (CoC) e DRY.",
+    "ano_criacao": 2004,
+    "criador": "David Heinemeier Hansson",
+    "paradigmas": [
+      "Convenção sobre configuração",
+      "MVC (Model-View-Controller)"
+    ],
+    "url": "https://rubyonrails.org/"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "Linguagem de script de uso geral, especialmente adequada para desenvolvimento web e incorporada em HTML.",
+    "ano_criacao": 1995,
+    "criador": "Rasmus Lerdorf",
+    "paradigmas": [
+      "Scripting",
+      "Orientada a objetos",
+      "Imperativa"
+    ],
+    "url": "https://www.php.net/"
+  },
+  {
+    "nome": "Django",
+    "descricao": "Framework web de alto nível que incentiva o desenvolvimento rápido e design limpo e pragmático.",
+    "ano_criacao": 2005,
+    "criador": "Adrian Holovaty, Simon Willison",
+    "paradigmas": [
+      "MVT (Model-View-Template)",
+      "DRY (Don't Repeat Yourself)"
+    ],
+    "url": "https://www.djangoproject.com/"
+  }
+]
